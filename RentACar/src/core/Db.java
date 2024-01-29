@@ -10,7 +10,7 @@ public class Db {
     private Connection connection = null;
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/rentacar";
     private static final String DB_USERNAME = "postgres";
-    private static final String DB_PASSWORD = "15533117804";
+    private static final String DB_PASSWORD = "1234";
 
     private Db() {
 
